@@ -9,19 +9,6 @@ class SegmentTree {
   public:
     SegmentTree(int * ar, int m) {
       this -> n = m;
-      arr = new int[n];
-      arr = ar;
-      tree = new int[4 * n + 1];
-      build(1, 0, n - 1);
-
-    }
-
-  void build(int node, int start, int end) {
-    if (start > end) return;
-    if (start == end) {
-      tree[node] = arr[start];
-      return;
-    }
     int mid = start + (end - start) / 2;
     int left = 2 * node;
     int right = 2 * node + 1;

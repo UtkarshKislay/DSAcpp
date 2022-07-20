@@ -1,0 +1,1 @@
+{"name":"Local: subsetSumK","url":"v:\\coding\\DSAcpp\\DP\\subsetSumK.cpp","tests":[{"id":1655670654164,"input":"1\n20 32\n23 50 30 95 5 81 66 21 36 75 92 59 47 93 29 13 88 22 49 32","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"v:\\coding\\DSAcpp\\DP\\subsetSumK.cpp","group":"local","local":true}

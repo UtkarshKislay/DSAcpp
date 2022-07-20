@@ -1,0 +1,1 @@
+{"name":"Local: PartitionSum","url":"v:\\coding\\DSAcpp\\DP\\PartitionSum.cpp","tests":[{"id":1655677609018,"input":"90\n432\n31","output":"true\nfalse"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"v:\\coding\\DSAcpp\\DP\\PartitionSum.cpp","group":"local","local":true}
