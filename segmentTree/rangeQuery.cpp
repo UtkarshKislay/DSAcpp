@@ -9,6 +9,19 @@ class SegmentTree {
   public:
     SegmentTree(int * ar, int m) {
       this -> n = m;
+      arr = new int[n];
+      arr = ar;
+      tree = new int[4 * n + 1];
+      build(1, 0, n - 1);
+
+    }
+
+  void build(int node, int start, int end) {
+    if (start > end) return;
+    if (start == end) {
+      tree[node] = arr[start];
+      return;
+    }
     int mid = start + (end - start) / 2;
     int left = 2 * node;
     int right = 2 * node + 1;
@@ -49,8 +62,8 @@ int main(int argc, char
   for (int i = 0; i < q; i++) {
     int l, r;
     cin >> l >> r;
-    int ans = st.queryy(l, r);
-    cout << ans << end_l;
+    int ans = st.query(l, r);
+    cout << ans << endl;
   }
   return 0;
 }

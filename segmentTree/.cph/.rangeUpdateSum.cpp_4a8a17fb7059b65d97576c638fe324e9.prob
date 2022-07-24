@@ -1,0 +1,1 @@
+{"name":"Local: rangeUpdateSum","url":"v:\\coding\\DSAcpp\\segmentTree\\rangeUpdateSum.cpp","tests":[{"id":1658524737090,"input":"8\n0\n10\n10\n-1\n5\n8\n10\n2\n5\n0 7 7\n1 4 6 1\n0 2 4\n1 5 5 7\n0 3 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"v:\\coding\\DSAcpp\\segmentTree\\rangeUpdateSum.cpp","group":"local","local":true}

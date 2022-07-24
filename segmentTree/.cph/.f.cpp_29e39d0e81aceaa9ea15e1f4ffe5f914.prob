@@ -1,0 +1,1 @@
+{"name":"Local: f","url":"v:\\coding\\DSAcpp\\segmentTree\\f.cpp","tests":[{"id":1658520817308,"input":"8\n4\n3\n9\n3\n9\n8\n7\n2\n5\n1 4 6 0\n0 7\n1 0 3 4\n0 4\n0 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"v:\\coding\\DSAcpp\\segmentTree\\f.cpp","group":"local","local":true}
