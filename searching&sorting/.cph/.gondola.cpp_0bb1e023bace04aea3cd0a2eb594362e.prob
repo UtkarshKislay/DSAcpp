@@ -1,0 +1,1 @@
+{"name":"Local: gondola","url":"v:\\coding\\DSAcpp\\searching&sorting\\gondola.cpp","tests":[{"id":1659623685030,"input":"10 20\n5 9 6 5 8 9 10 6 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"v:\\coding\\DSAcpp\\searching&sorting\\gondola.cpp","group":"local","local":true}
